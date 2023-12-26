@@ -8,5 +8,5 @@ The UTType for the document representing a deck of cards.
 import UniformTypeIdentifiers
 
 extension UTType {
-    static var flashCards = UTType(exportedAs: "com.example.flashCards")
+    static var flashCards = UTType(exportedAs: "com.EliudeVemba.flashCards")
 }
